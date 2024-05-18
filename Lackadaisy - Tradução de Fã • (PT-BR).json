@@ -44,6 +44,46 @@
       "groups": {
         "Canônico": "/proxy/api/imgur/chapter/audIaGy"
       }
+    },
+    "6": {
+      "title": "Incendiários",
+      "volume": "1",
+      "last_updated": "1716067369",
+      "groups": {
+        "Canônico": "https://imgur.com/a/6-lackadaisy-incendi-rios-pt-br-xVPnxcW"
+      }
+    },
+    "7": {
+      "title": "Schadenfreude",
+      "volume": "1",
+      "last_updated": "1716067434",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/KzR56BB"
+      }
+    },
+    "8": {
+      "title": "Surdina",
+      "volume": "1",
+      "last_updated": "1716067469",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/N1ukJVs"
+      }
+    },
+    "9": {
+      "title": "Machadinha",
+      "volume": "1",
+      "last_updated": "1716067492",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/nCcb7Ue"
+      }
+    },
+    "10": {
+      "title": "Tigre",
+      "volume": "1",
+      "last_updated": "1716067509",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/KDBMPYN"
+      }
     }
   }
 }
