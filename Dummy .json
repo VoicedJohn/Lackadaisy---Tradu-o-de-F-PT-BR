@@ -10,7 +10,9 @@
       "volume": "1",
       "last_updated": "1716056126",
       "groups": {
-        "Lackadaisy": "https://imgur.com/a/1-lackadaisy-introdu-o-pt-br-wWXaV9k"
+        "Lackadaisy": [
+          "https://imgur.com/a/1-lackadaisy-introdu-o-pt-br-wWXaV9k"
+        ]
       }
     }
   }
