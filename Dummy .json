@@ -6,19 +6,11 @@
   "cover": "https://www.littledaisycafe.com/wp-content/uploads/2021/07/film_poster_900.jpg",
   "chapters": {
     "1": {
-      "title": "1",
+      "title": "(1) Lackadaisy - Introdução • (PT-BR)",
       "volume": "1",
-      "last_updated": "1716042334",
+      "last_updated": "1716056126",
       "groups": {
-        "Lakkdl": "/proxy/api/imgur/chapter/hcLpMpw"
-      }
-    },
-    "2": {
-      "title": "2",
-      "volume": "1",
-      "last_updated": "1716042660",
-      "groups": {
-        "Lakkdl": "/proxy/api/imgur/chapter/JAEnnlr"
+        "Lackadaisy": "https://imgur.com/a/1-lackadaisy-introdu-o-pt-br-wWXaV9k"
       }
     }
   }
