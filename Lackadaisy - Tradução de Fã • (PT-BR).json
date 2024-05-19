@@ -124,6 +124,46 @@
       "groups": {
         "Interlúdio": "/proxy/api/imgur/chapter/AklToBQ"
       }
+    },
+    "16": {
+      "title": "Endoidado",
+      "volume": "1",
+      "last_updated": "1716140937",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/BIyaRGr"
+      }
+    },
+    "17": {
+      "title": "Atenção Médica",
+      "volume": "1",
+      "last_updated": "1716140994",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/lAdhXys"
+      }
+    },
+    "18": {
+      "title": "Surpreendente",
+      "volume": "1",
+      "last_updated": "1716141015",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/aKJUnND"
+      }
+    },
+    "19": {
+      "title": "Retórica",
+      "volume": "1",
+      "last_updated": "1716141031",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/cv34cXU"
+      }
+    },
+    "20": {
+      "title": "Encontro",
+      "volume": "1",
+      "last_updated": "1716141089",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/rIBPD0l"
+      }
     }
   }
 }
