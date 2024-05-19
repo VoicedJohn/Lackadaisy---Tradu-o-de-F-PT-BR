@@ -92,6 +92,38 @@
       "groups": {
         "Canônico": "/proxy/api/imgur/chapter/YzZ2JLw"
       }
+    },
+    "12": {
+      "title": "Ponto Cego",
+      "volume": "1",
+      "last_updated": "1716088901",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/8HTDu2m"
+      }
+    },
+    "13": {
+      "title": "Estraga-prazeres",
+      "volume": "1",
+      "last_updated": "1716088914",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/nUhq5hz"
+      }
+    },
+    "14": {
+      "title": "Apressado ",
+      "volume": "1",
+      "last_updated": "1716088990",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/Zr36VBU"
+      }
+    },
+    "15": {
+      "title": "Halloween",
+      "volume": "1",
+      "last_updated": "1716089463",
+      "groups": {
+        "Interlúdio": "/proxy/api/imgur/chapter/AklToBQ"
+      }
     }
   }
 }
