@@ -167,7 +167,7 @@
     },
     "25": {
       "title": "Listrado",
-      "volume": "1",
+      "volume": "2",
       "last_updated": "1717430249",
       "groups": {
         "Canônico": "/proxy/api/imgur/chapter/eUMTEYG"
@@ -175,7 +175,7 @@
     },
     "26": {
       "title": "Proposta",
-      "volume": "1",
+      "volume": "2",
       "last_updated": "1717430280",
       "groups": {
         "Canônico": "/proxy/api/imgur/chapter/l04oZH9"
@@ -183,7 +183,7 @@
     },
     "27": {
       "title": "Truque Sentimental",
-      "volume": "1",
+      "volume": "2",
       "last_updated": "1717430300",
       "groups": {
         "Canônico": "/proxy/api/imgur/chapter/HVpFNVq"
@@ -191,7 +191,7 @@
     },
     "28": {
       "title": "Monomania",
-      "volume": "1",
+      "volume": "2",
       "last_updated": "1717430352",
       "groups": {
         "Canônico": "/proxy/api/imgur/chapter/t9lzlcw"
@@ -255,7 +255,7 @@
     },
     "38": {
       "title": "Mata Hari",
-      "volume": "1",
+      "volume": "2",
       "last_updated": "1717430642",
       "groups": {
         "Canônico": "/proxy/api/imgur/chapter/PFZvtmZ"
@@ -263,7 +263,7 @@
     },
     "39": {
       "title": "Contravenção",
-      "volume": "1",
+      "volume": "2",
       "last_updated": "1717430654",
       "groups": {
         "Canônico": "/proxy/api/imgur/chapter/0QLOCAP"
@@ -271,7 +271,7 @@
     },
     "41": {
       "title": "Fazendeiros",
-      "volume": "1",
+      "volume": "2",
       "last_updated": "1717430684",
       "groups": {
         "Canônico": "/proxy/api/imgur/chapter/EnorNPa"
@@ -279,7 +279,7 @@
     },
     "42": {
       "title": "Enxofre",
-      "volume": "1",
+      "volume": "2",
       "last_updated": "1717430712",
       "groups": {
         "Canônico": "/proxy/api/imgur/chapter/zqkcnDZ"
@@ -287,7 +287,7 @@
     },
     "43": {
       "title": "Coveiros",
-      "volume": "1",
+      "volume": "2",
       "last_updated": "1717430726",
       "groups": {
         "Canônico": "/proxy/api/imgur/chapter/ik8v2Dn"
@@ -295,7 +295,7 @@
     },
     "44": {
       "title": "Passado",
-      "volume": "1",
+      "volume": "2",
       "last_updated": "1717430739",
       "groups": {
         "Canônico": "/proxy/api/imgur/chapter/NJUDT6e"
@@ -303,7 +303,7 @@
     },
     "45": {
       "title": "Antídoto",
-      "volume": "1",
+      "volume": "2",
       "last_updated": "1717430757",
       "groups": {
         "Canônico": "/proxy/api/imgur/chapter/GI14k6b"
@@ -311,10 +311,26 @@
     },
     "46": {
       "title": "Revelações",
-      "volume": "1",
+      "volume": "2",
       "last_updated": "1717430773",
       "groups": {
         "Canônico": "/proxy/api/imgur/chapter/pc8tQuU"
+      }
+    },
+    "47": {
+      "title": "Pesadelo",
+      "volume": "2",
+      "last_updated": "1717430855",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/rgx8vYt"
+      }
+    },
+    "49": {
+      "title": "Vodu",
+      "volume": "2",
+      "last_updated": "1717430874",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/1rUXhHK"
       }
     }
   }
