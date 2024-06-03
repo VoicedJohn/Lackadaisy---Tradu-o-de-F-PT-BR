@@ -220,6 +220,62 @@
       "groups": {
         "Canônico": "/proxy/api/imgur/chapter/od7UqDb"
       }
+    },
+    "33": {
+      "title": "Defiance",
+      "volume": "1",
+      "last_updated": "1717430575",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/RTFKEJ7"
+      }
+    },
+    "34": {
+      "title": "Correspondência",
+      "volume": "1",
+      "last_updated": "1717430591",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/GsO2rNb"
+      }
+    },
+    "35": {
+      "title": "Ladrazinha",
+      "volume": "1",
+      "last_updated": "1717430612",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/fNJDnmJ"
+      }
+    },
+    "37": {
+      "title": "Beco",
+      "volume": "1",
+      "last_updated": "1717430627",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/QNUsBsD"
+      }
+    },
+    "38": {
+      "title": "Mata Hari",
+      "volume": "1",
+      "last_updated": "1717430642",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/PFZvtmZ"
+      }
+    },
+    "39": {
+      "title": "Contravenção",
+      "volume": "1",
+      "last_updated": "1717430654",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/0QLOCAP"
+      }
+    },
+    "41": {
+      "title": "Fazendeiros",
+      "volume": "1",
+      "last_updated": "1717430684",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/EnorNPa"
+      }
     }
   }
 }
