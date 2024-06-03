@@ -276,6 +276,46 @@
       "groups": {
         "Canônico": "/proxy/api/imgur/chapter/EnorNPa"
       }
+    },
+    "42": {
+      "title": "Enxofre",
+      "volume": "1",
+      "last_updated": "1717430712",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/zqkcnDZ"
+      }
+    },
+    "43": {
+      "title": "Coveiros",
+      "volume": "1",
+      "last_updated": "1717430726",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/ik8v2Dn"
+      }
+    },
+    "44": {
+      "title": "Passado",
+      "volume": "1",
+      "last_updated": "1717430739",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/NJUDT6e"
+      }
+    },
+    "45": {
+      "title": "Antídoto",
+      "volume": "1",
+      "last_updated": "1717430757",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/GI14k6b"
+      }
+    },
+    "46": {
+      "title": "Revelações",
+      "volume": "1",
+      "last_updated": "1717430773",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/pc8tQuU"
+      }
     }
   }
 }
