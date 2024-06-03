@@ -164,6 +164,62 @@
       "groups": {
         "Canônico": "/proxy/api/imgur/chapter/rIBPD0l"
       }
+    },
+    "25": {
+      "title": "Listrado",
+      "volume": "1",
+      "last_updated": "1717430249",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/eUMTEYG"
+      }
+    },
+    "26": {
+      "title": "Proposta",
+      "volume": "1",
+      "last_updated": "1717430280",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/l04oZH9"
+      }
+    },
+    "27": {
+      "title": "Truque Sentimental",
+      "volume": "1",
+      "last_updated": "1717430300",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/HVpFNVq"
+      }
+    },
+    "28": {
+      "title": "Monomania",
+      "volume": "1",
+      "last_updated": "1717430352",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/t9lzlcw"
+      }
+    },
+    "29": {
+      "title": "Absurdos",
+      "volume": "1",
+      "last_updated": "1717430376",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/5EkuIf2"
+      }
+    },
+    "30": {
+      "title": "Photomajig",
+      "volume": "1",
+      "last_updated": "1717430404",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/69nyjOo"
+      }
+    },
+    "32": {
+      "title": "Academia",
+      "volume": "1",
+      "last_updated": "1717430424",
+      "groups": {
+        "Canônico": "/proxy/api/imgur/chapter/od7UqDb"
+      }
     }
   }
 }
